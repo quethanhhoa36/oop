@@ -3,7 +3,7 @@ package com.example;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class Main {
+public class Bai3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] myArray;
